@@ -1,2 +1,3 @@
-# HELLOWORLD
-Devops cloud
+# maven-project
+
+Simple Maven Project
